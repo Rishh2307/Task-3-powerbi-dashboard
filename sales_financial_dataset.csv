@@ -1,0 +1,31 @@
+Order ID,Order Date,Region,Category,Sub-Category,Sales,Profit,Quantity,Discount,Customer Segment
+1001,4/13/2022,West,Office Supplies,Storage,1124.79,190.91,2,0.1,Home Office
+1002,3/16/2022,East,Office Supplies,Binders,300.01,54.06,5,0.05,Corporate
+1003,2/7/2022,South,Office Supplies,Paper,525.94,81.5,4,0,Consumer
+1004,4/1/2022,East,Furniture,Phones,165.33,40.46,3,0.2,Home Office
+1005,4/26/2022,West,Office Supplies,Chairs,1303.92,242.61,1,0.1,Corporate
+1006,1/4/2022,North,Technology,Phones,639.58,34.02,2,0.2,Home Office
+1007,3/1/2022,East,Office Supplies,Storage,342.71,43.94,2,0.2,Corporate
+1008,1/6/2022,South,Technology,Binders,358.8,87.52,2,0.2,Corporate
+1009,3/15/2022,South,Technology,Storage,1390.62,94.14,4,0,Corporate
+1010,2/9/2022,North,Office Supplies,Phones,855.57,143.18,1,0.2,Consumer
+1011,2/10/2022,North,Furniture,Accessories,204.37,50.56,1,0.2,Home Office
+1012,1/11/2022,East,Office Supplies,Chairs,1206.25,206.5,2,0.1,Corporate
+1013,2/10/2022,West,Furniture,Paper,972.62,113,5,0.1,Corporate
+1014,4/1/2022,East,Office Supplies,Chairs,267.43,51.52,1,0,Corporate
+1015,4/29/2022,East,Technology,Storage,156.61,30.09,2,0.05,Consumer
+1016,2/20/2022,East,Furniture,Paper,540.1,81.94,5,0.1,Home Office
+1017,4/19/2022,East,Furniture,Accessories,420.32,27.49,3,0.1,Corporate
+1018,1/28/2022,South,Technology,Accessories,513.89,36.54,4,0.2,Corporate
+1019,3/3/2022,East,Technology,Storage,1354.53,153.88,1,0,Consumer
+1020,1/27/2022,South,Office Supplies,Binders,593.6,65.86,3,0,Corporate
+1021,2/6/2022,North,Furniture,Phones,572.66,136.63,1,0.2,Consumer
+1022,3/3/2022,North,Technology,Binders,445.63,84.34,3,0,Consumer
+1023,4/23/2022,West,Office Supplies,Chairs,953.39,143.52,5,0.2,Consumer
+1024,1/1/2022,East,Technology,Phones,843.31,117.69,4,0.1,Home Office
+1025,2/25/2022,East,Office Supplies,Storage,1224.4,176.39,2,0.05,Corporate
+1026,1/11/2022,East,Office Supplies,Paper,549.09,47.94,5,0.1,Home Office
+1027,2/5/2022,East,Technology,Chairs,1233.3,147.67,4,0,Consumer
+1028,2/9/2022,West,Furniture,Phones,1272.79,235.64,1,0,Corporate
+1029,1/23/2022,East,Technology,Phones,461.12,83.92,2,0.2,Consumer
+1030,4/26/2022,West,Office Supplies,Phones,1494.76,363.35,5,0,Home Office
